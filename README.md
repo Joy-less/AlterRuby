@@ -2,6 +2,8 @@
 
 This class allows you to run Ruby code in parallel by using "||".
 <br>
+Under MIT license so you can use in commercial projects.
+<br>
 Designed for use with RPG Maker VX Ace.
 
 Turn this:
