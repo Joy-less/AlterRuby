@@ -1,5 +1,9 @@
 # AlterRuby
 
+This class allows you to run Ruby code in parallel by using "||".
+<br>
+Designed for use with RPG Maker VX Ace.
+
 Turn this:
 
 ```
