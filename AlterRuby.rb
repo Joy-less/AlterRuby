@@ -2,7 +2,7 @@
 # ** AlterRuby v1.0                                                (2022-02-18)
 #    by Wreon
 #------------------------------------------------------------------------------
-#  This class allows you to run ruby code in parallel by using "||".
+#  This class allows you to run Ruby code in parallel by using "||".
 #------------------------------------------------------------------------------
 #  Example
 #  a = true.to_s
