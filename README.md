@@ -1,6 +1,6 @@
 # AlterRuby
 
-This class allows you to run Ruby code in parallel by using "||".
+This class allows you to easily run Ruby code in parallel by using "||".
 <br>
 Under MIT license so you can use in commercial projects.
 <br>
