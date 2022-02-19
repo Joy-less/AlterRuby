@@ -94,6 +94,23 @@ end'
   end
 end
 
+#==============================================================================
+# *  Unique ID                                                     (2022-02-17)
+#    by Wreon
+#------------------------------------------------------------------------------
+#  This method allows you to generate a unique ID.
+#  id = Unique_ID.new.generate_id
+#==============================================================================
+
+class Unique_ID
+  @@current_id = 0
+  
+  def generate_id
+    @@current_id += 1
+    return @@current_id
+  end
+end
+
 def AR(code, binding)
   return AlterRuby.new.run(code, binding)
 end
