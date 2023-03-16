@@ -1,6 +1,6 @@
 #==============================================================================
 # ** AlterRuby v1.0                                                (2022-02-18)
-#    by Wreon
+#    by Joyless
 #------------------------------------------------------------------------------
 #  This class allows you to run Ruby code in parallel by using "||".
 #------------------------------------------------------------------------------
@@ -9,7 +9,7 @@
 #  success = AR('5.times do; sleep(0.2); end; puts("Done: " + a) || sleep(0.1); puts("Test")', binding)
 #------------------------------------------------------------------------------
 #  License (MIT)
-#  Copyright © 2022 Wreon
+#  Copyright © 2022 Joyless
 #  
 #  Permission is hereby granted, free of charge, to any person obtaining a copy
 #  of this software and associated documentation files (the "Software"), to deal
